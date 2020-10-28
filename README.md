@@ -79,7 +79,7 @@ function doPost(e) {
 ```
 SLACK_BOT_TOKEN=スラックのTOKEN
 SLACK_SIGNING_SECRET=SLACKのSIGNING＿SECRET
-url=GOOGLEスプシのURL
+url=GOOGLEスプシでwebサイトとして公開したときに表示されるURL
 key=Trelloのkey
 token=TrelloのToken
 boardId=TrelloのboardID
